@@ -1,0 +1,15 @@
+.table{
+    border: 1px solid #c8c8c8;
+}
+
+.table th{
+    text-align: center;
+}
+
+.jumbotron-heading{
+    padding-top: 30px;
+}
+
+h3{
+    padding-bottom: 15px;
+}

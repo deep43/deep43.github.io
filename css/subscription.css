@@ -1,0 +1,21 @@
+.navbar-collapse {
+    float: right;
+}
+
+.active {
+    color: #fff !important;
+    background-color: transparent;
+}
+
+.carousel {
+    width: 35%;
+    margin: auto;
+}
+
+.subscription .jumbotron-heading {
+    margin-top: 30px;
+}
+
+h3 {
+    padding-bottom: 15px;
+}
